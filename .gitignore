@@ -1,0 +1,28 @@
+__pycache__/
+**pycache**/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# YOLO generated outputs
+runs/
+outputs/
+
+# Large datasets
+datasets/
+data/images/
+data/train/
+data/val/
+data/test/
+
+# Temporary files
+*.tmp
+
+# Archives and generated bundles
+*.zip
